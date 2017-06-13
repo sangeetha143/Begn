@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-class kannan
+class even
 {
 public static void main(String a[])
 {
